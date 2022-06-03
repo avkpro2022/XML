@@ -1,1 +1,19 @@
-
+<bug_report>
+  <ShortDiscription>The search in the dream book on the main page, using Russian words, does not work correctly</ShortDiscription>
+   <Project>http://www.ameno.ru/</Project>
+   <applicationComponent>Search in the dream book</applicationComponent>
+   <VersionNumber>000.1</VersionNumber>
+   <Importance>S3-major</Importance>
+   <Priority>High</Priority>
+   <Status>New</Status>
+   <Author>Fox Mulder</Author>
+   <assigned to>Danna Skaly</assigned to>
+   <step playback>
+     <step playback>Open the main page of the site: http://www.ameno.ru</step playback>
+     <step playback>At the bottom of the page we find the section: DREAM BOOK<s/tep playback>
+     <step playback>Enter a search word, for example "night"</step playback>
+     <step playback>Click the "Find button"</step playback>
+    </step playback>
+   <Actual Result>The request failed validation</Actual Result>
+   <Expected result>The search was successful, the description of the required sleep is shown correctly</Expected result>
+ </bug_report>
