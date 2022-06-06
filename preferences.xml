@@ -1,14 +1,14 @@
 <information>
-   <My favorite movie>Forrest Gump</My favorite movie>
-   <My favorite soap opera>
-     <My favorite soap opera>Friends</My favorite soap opera>
-     <My favorite soap opera>X-files</My favorite soap opera>
-   </My favorite soap opera>
-   <My favorite food>
-     <My favorite food>Lard</My favorite food>
-     <My favorite food>Fast food</My favorite food>
-     <My favorite food>Cupcakes</My favorite food>
-   </My favorite food>
-   <my favorite time of the year>summer</my favorite time of the year>
-   <the country I would like to visit>USA</the country I would like to visit>
+	<MyFavoriteMovie>Forrest Gump</MyFavoriteMovie>
+	<MyFavoriteSoapOpera>
+		<MyFavoriteSoapOpera>Friends</MyFavoriteSoapOpera>
+		<MyFavoriteSoapOpera>X-files</MyFavoriteSoapOpera>
+	</MyFavoriteSoapOpera>
+	<MyFavoriteFood>
+		<MyFavoriteFood>Lard</MyFavoriteFood>
+		<MyFavoriteFood>Fast food</MyFavoriteFood>
+		<MyFavoriteFood>Cupcakes</MyFavoriteFood>
+	</MyFavoriteFood>
+	<MyFavoriteTimeOfTheYear>summer</MyFavoriteTimeOfTheYear>
+	<TheCountryIwouldLikeToVisit>USA</TheCountryIWouldLikeToVisit>
 </information>
