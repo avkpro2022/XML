@@ -1,30 +1,16 @@
-
-<basic skills>
-   <Base>
-     <theory>What is testing</theory>
-     <theory>bug reports</theory>
-     <theory>documentation</theory>
-     <theory>types</theory>
-     <theory>method</theory>
-     <theory>testing directions</theory>
-     <theory>What is the client-server architecture</theory>
-   </Base>
-     <TTTP>
-     <HTTP>methods of requests to the server</HTTP>
-     <HTTP>server response codes</HTTP>
-     <HTTP>Structures of HTTP requests and responses</HTTP>
-   </HTTP>
-   <format>
-     <format>What is JSON, XML. Their structure</formate>
-   </formate>
-   <API>
-     <API>API testing via Postman (JS, API autotests)</API>
-   </API>
-   <server>
-      <server>Removing and reading logs from an external server</server>
-      <server>Sniffing http web traffic via Charles and Fiddler</server>
-   </server>
-   <and much more>Dev Tools of web browsers: "Google",
-"Chrome","FireFox</and much more>
-</basic skills>
-
+<?xml version="1.0" encoding="windows-1251"?>
+<skills>
+	<Base>
+		<theory>What is testing</theory>
+		<theory>bug reports</theory>
+		<theory>documentation</theory>
+		<theory>types</theory>
+		<theory>method</theory>
+		<theory>testing directions</theory>
+		<theory>What is the client-server architecture</theory>
+	</Base>
+	<HTTP>
+        <HTTP>methods of requests to the server</HTTP>
+		<HTTP>server response codes</HTTP>
+		<HTTP>Structures of HTTP requests and responses</HTTP>
+			<format>What is JSON, XML.Their structure</formate></skills>
