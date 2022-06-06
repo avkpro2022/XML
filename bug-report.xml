@@ -7,13 +7,13 @@
    <Priority>High</Priority>
    <Status>New</Status>
    <Author>Fox Mulder</Author>
-   <assigned to>Danna Skaly</assigned to>
-   <step playback>
-     <step playback>Open the main page of the site: http://www.ameno.ru</step playback>
-     <step playback>At the bottom of the page we find the section: DREAM BOOK<s/tep playback>
-     <step playback>Enter a search word, for example "night"</step playback>
-     <step playback>Click the "Find button"</step playback>
-    </step playback>
-   <Actual Result>The request failed validation</Actual Result>
-   <Expected result>The search was successful, the description of the required sleep is shown correctly</Expected result>
+   <assignedTo>Danna Skaly</assignedTo>
+   <stepPlayback>
+     <stepPlayback>Open the main page of the site: http://www.ameno.ru</stepPlayback>
+     <stepPlayback>At the bottom of the page we find the section: DREAM BOOK</stepPlayback>
+     <stepPlayback>Enter a search word, for example "night"</stepPlayback>
+     <stepPlayback>Click the "Find button"</stepPlayback>
+    </stepPlayback>
+   <ActualResult>The request failed validation</ActualResult>
+   <ExpectedResult>The search was successful, the description of the required sleep is shown correctly</ExpectedResult>
  </bug_report>
