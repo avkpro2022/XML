@@ -1,8 +1,7 @@
 <person>
- <FirstName>Andrew</FirsName>
+ <FirstName>Andrew</FirstName>
    <LastName>Kazlou</LastName>
    <Age>35</Age>
    <Pet>1</Pet>
-   <desired salary>1000$</desired salary>
+   <desiredSalary>1000$</desiredSalary>
 </person>
-
