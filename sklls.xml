@@ -13,4 +13,5 @@
         <HTTP>methods of requests to the server</HTTP>
 		<HTTP>server response codes</HTTP>
 		<HTTP>Structures of HTTP requests and responses</HTTP>
-			<format>What is JSON, XML.Their structure</formate></skills>
+		</HTTP>
+			<formate>What is JSON, XML.Their structure</formate></skills>
